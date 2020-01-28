@@ -15,6 +15,7 @@
 		90661A5123E09C0600A2CE0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90661A4F23E09C0600A2CE0E /* LaunchScreen.storyboard */; };
 		90661A5C23E09C0700A2CE0E /* Top_StoriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90661A5B23E09C0700A2CE0E /* Top_StoriesTests.swift */; };
 		90661A6723E09C0700A2CE0E /* Top_StoriesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90661A6623E09C0700A2CE0E /* Top_StoriesUITests.swift */; };
+		90661A7523E09FCF00A2CE0E /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90661A7423E09FCF00A2CE0E /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		90661A6223E09C0700A2CE0E /* Top StoriesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Top StoriesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90661A6623E09C0700A2CE0E /* Top_StoriesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Top_StoriesUITests.swift; sourceTree = "<group>"; };
 		90661A6823E09C0700A2CE0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90661A7423E09FCF00A2CE0E /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../../SwiftyJSON-master 2/Source/SwiftyJSON/SwiftyJSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				90661A4423E09C0100A2CE0E /* AppDelegate.swift */,
 				90661A4623E09C0100A2CE0E /* SceneDelegate.swift */,
 				90661A4823E09C0100A2CE0E /* SourcesViewController.swift */,
+				90661A7423E09FCF00A2CE0E /* SwiftyJSON.swift */,
 				90661A4A23E09C0100A2CE0E /* Main.storyboard */,
 				90661A4D23E09C0600A2CE0E /* Assets.xcassets */,
 				90661A4F23E09C0600A2CE0E /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				90661A4923E09C0100A2CE0E /* SourcesViewController.swift in Sources */,
 				90661A4523E09C0100A2CE0E /* AppDelegate.swift in Sources */,
 				90661A4723E09C0100A2CE0E /* SceneDelegate.swift in Sources */,
+				90661A7523E09FCF00A2CE0E /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
